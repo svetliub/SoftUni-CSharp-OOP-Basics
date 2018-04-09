@@ -1,0 +1,11 @@
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p12_Google\bin\Debug\netcoreapp2.0\p12_Google.deps.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p12_Google\bin\Debug\netcoreapp2.0\p12_Google.runtimeconfig.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p12_Google\bin\Debug\netcoreapp2.0\p12_Google.runtimeconfig.dev.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p12_Google\bin\Debug\netcoreapp2.0\p12_Google.dll
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p12_Google\bin\Debug\netcoreapp2.0\p12_Google.pdb
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p12_Google\obj\Debug\netcoreapp2.0\p12_Google.csprojResolveAssemblyReference.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p12_Google\obj\Debug\netcoreapp2.0\p12_Google.csproj.CoreCompileInputs.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p12_Google\obj\Debug\netcoreapp2.0\p12_Google.AssemblyInfoInputs.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p12_Google\obj\Debug\netcoreapp2.0\p12_Google.AssemblyInfo.cs
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p12_Google\obj\Debug\netcoreapp2.0\p12_Google.dll
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p12_Google\obj\Debug\netcoreapp2.0\p12_Google.pdb

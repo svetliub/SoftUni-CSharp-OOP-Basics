@@ -1,0 +1,11 @@
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p04_OpinionPoll\bin\Debug\netcoreapp2.0\p04_OpinionPoll.deps.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p04_OpinionPoll\bin\Debug\netcoreapp2.0\p04_OpinionPoll.runtimeconfig.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p04_OpinionPoll\bin\Debug\netcoreapp2.0\p04_OpinionPoll.runtimeconfig.dev.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p04_OpinionPoll\bin\Debug\netcoreapp2.0\p04_OpinionPoll.dll
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p04_OpinionPoll\bin\Debug\netcoreapp2.0\p04_OpinionPoll.pdb
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p04_OpinionPoll\obj\Debug\netcoreapp2.0\p04_OpinionPoll.csproj.CoreCompileInputs.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p04_OpinionPoll\obj\Debug\netcoreapp2.0\p04_OpinionPoll.AssemblyInfoInputs.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p04_OpinionPoll\obj\Debug\netcoreapp2.0\p04_OpinionPoll.AssemblyInfo.cs
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p04_OpinionPoll\obj\Debug\netcoreapp2.0\p04_OpinionPoll.dll
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p04_OpinionPoll\obj\Debug\netcoreapp2.0\p04_OpinionPoll.pdb
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p04_OpinionPoll\obj\Debug\netcoreapp2.0\p04_OpinionPoll.csprojResolveAssemblyReference.cache

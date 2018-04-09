@@ -1,0 +1,11 @@
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p14_CatLady\bin\Debug\netcoreapp2.0\p14_CatLady.deps.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p14_CatLady\bin\Debug\netcoreapp2.0\p14_CatLady.runtimeconfig.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p14_CatLady\bin\Debug\netcoreapp2.0\p14_CatLady.runtimeconfig.dev.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p14_CatLady\bin\Debug\netcoreapp2.0\p14_CatLady.dll
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p14_CatLady\bin\Debug\netcoreapp2.0\p14_CatLady.pdb
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p14_CatLady\obj\Debug\netcoreapp2.0\p14_CatLady.csprojResolveAssemblyReference.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p14_CatLady\obj\Debug\netcoreapp2.0\p14_CatLady.csproj.CoreCompileInputs.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p14_CatLady\obj\Debug\netcoreapp2.0\p14_CatLady.AssemblyInfoInputs.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p14_CatLady\obj\Debug\netcoreapp2.0\p14_CatLady.AssemblyInfo.cs
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p14_CatLady\obj\Debug\netcoreapp2.0\p14_CatLady.dll
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p14_CatLady\obj\Debug\netcoreapp2.0\p14_CatLady.pdb

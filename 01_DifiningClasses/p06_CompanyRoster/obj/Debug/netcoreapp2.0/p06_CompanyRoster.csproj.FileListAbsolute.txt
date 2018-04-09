@@ -1,0 +1,11 @@
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p06_CompanyRoster\bin\Debug\netcoreapp2.0\p06_CompanyRoster.deps.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p06_CompanyRoster\bin\Debug\netcoreapp2.0\p06_CompanyRoster.runtimeconfig.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p06_CompanyRoster\bin\Debug\netcoreapp2.0\p06_CompanyRoster.runtimeconfig.dev.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p06_CompanyRoster\bin\Debug\netcoreapp2.0\p06_CompanyRoster.dll
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p06_CompanyRoster\bin\Debug\netcoreapp2.0\p06_CompanyRoster.pdb
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p06_CompanyRoster\obj\Debug\netcoreapp2.0\p06_CompanyRoster.csproj.CoreCompileInputs.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p06_CompanyRoster\obj\Debug\netcoreapp2.0\p06_CompanyRoster.AssemblyInfoInputs.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p06_CompanyRoster\obj\Debug\netcoreapp2.0\p06_CompanyRoster.AssemblyInfo.cs
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p06_CompanyRoster\obj\Debug\netcoreapp2.0\p06_CompanyRoster.dll
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p06_CompanyRoster\obj\Debug\netcoreapp2.0\p06_CompanyRoster.pdb
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p06_CompanyRoster\obj\Debug\netcoreapp2.0\p06_CompanyRoster.csprojResolveAssemblyReference.cache

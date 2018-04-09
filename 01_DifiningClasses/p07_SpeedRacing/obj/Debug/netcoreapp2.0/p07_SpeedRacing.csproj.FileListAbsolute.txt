@@ -1,0 +1,11 @@
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p07_SpeedRacing\bin\Debug\netcoreapp2.0\p07_SpeedRacing.deps.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p07_SpeedRacing\bin\Debug\netcoreapp2.0\p07_SpeedRacing.runtimeconfig.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p07_SpeedRacing\bin\Debug\netcoreapp2.0\p07_SpeedRacing.runtimeconfig.dev.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p07_SpeedRacing\bin\Debug\netcoreapp2.0\p07_SpeedRacing.dll
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p07_SpeedRacing\bin\Debug\netcoreapp2.0\p07_SpeedRacing.pdb
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p07_SpeedRacing\obj\Debug\netcoreapp2.0\p07_SpeedRacing.csprojResolveAssemblyReference.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p07_SpeedRacing\obj\Debug\netcoreapp2.0\p07_SpeedRacing.csproj.CoreCompileInputs.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p07_SpeedRacing\obj\Debug\netcoreapp2.0\p07_SpeedRacing.AssemblyInfoInputs.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p07_SpeedRacing\obj\Debug\netcoreapp2.0\p07_SpeedRacing.AssemblyInfo.cs
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p07_SpeedRacing\obj\Debug\netcoreapp2.0\p07_SpeedRacing.dll
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p07_SpeedRacing\obj\Debug\netcoreapp2.0\p07_SpeedRacing.pdb

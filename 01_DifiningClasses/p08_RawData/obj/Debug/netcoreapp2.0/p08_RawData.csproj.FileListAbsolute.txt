@@ -1,0 +1,11 @@
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p08_RawData\bin\Debug\netcoreapp2.0\p08_RawData.deps.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p08_RawData\bin\Debug\netcoreapp2.0\p08_RawData.runtimeconfig.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p08_RawData\bin\Debug\netcoreapp2.0\p08_RawData.runtimeconfig.dev.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p08_RawData\bin\Debug\netcoreapp2.0\p08_RawData.dll
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p08_RawData\bin\Debug\netcoreapp2.0\p08_RawData.pdb
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p08_RawData\obj\Debug\netcoreapp2.0\p08_RawData.csprojResolveAssemblyReference.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p08_RawData\obj\Debug\netcoreapp2.0\p08_RawData.csproj.CoreCompileInputs.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p08_RawData\obj\Debug\netcoreapp2.0\p08_RawData.AssemblyInfoInputs.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p08_RawData\obj\Debug\netcoreapp2.0\p08_RawData.AssemblyInfo.cs
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p08_RawData\obj\Debug\netcoreapp2.0\p08_RawData.dll
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p08_RawData\obj\Debug\netcoreapp2.0\p08_RawData.pdb

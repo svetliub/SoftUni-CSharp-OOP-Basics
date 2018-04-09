@@ -1,0 +1,11 @@
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p13_FamilyTree\bin\Debug\netcoreapp2.0\p13_FamilyTree.deps.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p13_FamilyTree\bin\Debug\netcoreapp2.0\p13_FamilyTree.runtimeconfig.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p13_FamilyTree\bin\Debug\netcoreapp2.0\p13_FamilyTree.runtimeconfig.dev.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p13_FamilyTree\bin\Debug\netcoreapp2.0\p13_FamilyTree.dll
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p13_FamilyTree\bin\Debug\netcoreapp2.0\p13_FamilyTree.pdb
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p13_FamilyTree\obj\Debug\netcoreapp2.0\p13_FamilyTree.csprojResolveAssemblyReference.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p13_FamilyTree\obj\Debug\netcoreapp2.0\p13_FamilyTree.csproj.CoreCompileInputs.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p13_FamilyTree\obj\Debug\netcoreapp2.0\p13_FamilyTree.AssemblyInfoInputs.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p13_FamilyTree\obj\Debug\netcoreapp2.0\p13_FamilyTree.AssemblyInfo.cs
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p13_FamilyTree\obj\Debug\netcoreapp2.0\p13_FamilyTree.dll
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p13_FamilyTree\obj\Debug\netcoreapp2.0\p13_FamilyTree.pdb

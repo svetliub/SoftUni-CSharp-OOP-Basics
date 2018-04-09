@@ -1,0 +1,11 @@
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p01_DefineAClassPerson\bin\Debug\netcoreapp2.0\p01_DefineAClassPerson.deps.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p01_DefineAClassPerson\bin\Debug\netcoreapp2.0\p01_DefineAClassPerson.runtimeconfig.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p01_DefineAClassPerson\bin\Debug\netcoreapp2.0\p01_DefineAClassPerson.runtimeconfig.dev.json
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p01_DefineAClassPerson\bin\Debug\netcoreapp2.0\p01_DefineAClassPerson.dll
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p01_DefineAClassPerson\bin\Debug\netcoreapp2.0\p01_DefineAClassPerson.pdb
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p01_DefineAClassPerson\obj\Debug\netcoreapp2.0\p01_DefineAClassPerson.csprojResolveAssemblyReference.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p01_DefineAClassPerson\obj\Debug\netcoreapp2.0\p01_DefineAClassPerson.csproj.CoreCompileInputs.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p01_DefineAClassPerson\obj\Debug\netcoreapp2.0\p01_DefineAClassPerson.AssemblyInfoInputs.cache
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p01_DefineAClassPerson\obj\Debug\netcoreapp2.0\p01_DefineAClassPerson.AssemblyInfo.cs
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p01_DefineAClassPerson\obj\Debug\netcoreapp2.0\p01_DefineAClassPerson.dll
+D:\Programirane\SoftUni\7.C#_OOP_Basics\Solutions_VS\01_DifiningClasses\p01_DefineAClassPerson\obj\Debug\netcoreapp2.0\p01_DefineAClassPerson.pdb
