@@ -3,7 +3,7 @@
 
 Exercises:
 
-1. Defining Classes
+1. [Defining Classes](https://softuni.bg/trainings/1842/csharp-oop-basics-february-2018#lesson-7702)
 2. Working With Abstraction
 3. Encapsulation
 4. Inheritance
