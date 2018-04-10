@@ -1,5 +1,5 @@
 # SoftUni-CSharp-OOP-Basics
-![download](https://user-images.githubusercontent.com/28595004/38559798-a13fc358-3cdc-11e8-9a9b-017ad27149e9.png)
+[![download](https://user-images.githubusercontent.com/28595004/38559798-a13fc358-3cdc-11e8-9a9b-017ad27149e9.png)](https://softuni.bg/trainings/1842/csharp-oop-basics-february-2018)
 
 Exercises:
 
