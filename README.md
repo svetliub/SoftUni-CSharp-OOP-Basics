@@ -3,8 +3,8 @@
 
 Exercises:
 
-1. [Defining Classes](https://softuni.bg/trainings/1842/csharp-oop-basics-february-2018#lesson-7702)
-2. Working With Abstraction
+1. [Defining Classes](https://github.com/svetliub/SoftUni-CSharp-OOP-Basics/tree/master/01_DifiningClasses)
+2. [Working With Abstraction](https://github.com/svetliub/SoftUni-CSharp-OOP-Basics/tree/master/02_WorkingWithAbstraction-Exercises)
 3. Encapsulation
 4. Inheritance
 5. Interfaces and Abstraction
